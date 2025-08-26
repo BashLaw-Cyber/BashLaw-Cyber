@@ -5,13 +5,11 @@
 - <b>School Data Management and Processing</b>
   - [School Result Processing system](https://github.com/BashLaw-Cyber/ClassTeacher)
 - <b>Virtual Card Record Keeping</b>
-  - [Virtual Card Scanner](https://github.com/BashLaw-Cyber/Virtual_Card_Record) 
-</h2> 
+  - [Virtual Card Scanner](https://github.com/BashLaw-Cyber/Virtual_Card_Record)  
 <h2>👨‍💻 SQL Database Projects:</h2>
 - <b>SQL data queries</b>
   - [Bidder and Auction Table queriess](https://github.com/BashLaw-Cyber/sql_data_queries)
-</h2>
-h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BashLaw | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BashLaw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
