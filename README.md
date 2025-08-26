@@ -6,14 +6,15 @@
   - [School Result Processing system](https://github.com/BashLaw-Cyber/ClassTeacher)
 - <b>Virtual Card Record Keeping</b>
   - [Virtual Card Scanner](https://github.com/BashLaw-Cyber/Virtual_Card_Record) 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>👨‍💻 SQL Database Projects:</h2>
+- <b>SQL data queries</b>
+  - [Bidder and Auction Table queriess](https://github.com/BashLaw-Cyber/sql_data_queries)
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="BashLaw | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BashLaw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Bash_law_
 [linkedin]: https://www.linkedin.com/in/bashir-abdulsalam-gmnse-aa2b18246/
