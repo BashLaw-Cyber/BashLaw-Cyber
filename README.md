@@ -11,6 +11,12 @@
 
 - <b>SQL data queries</b>
   - [Bidder and Auction Table queriess](https://github.com/BashLaw-Cyber/sql_data_queries)
+
+
+<h2>👨‍💻 C++ Programming Projects:</h2>
+
+- <b>Sorting Algorithm</b>
+  - [Bubble, Selection and Insertion Sorting](https://github.com/BashLaw-Cyber/c-_sort_algo_code)
     
 <h2> 🤳 Connect with me:</h2>
 
