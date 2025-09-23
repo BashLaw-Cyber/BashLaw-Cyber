@@ -10,7 +10,10 @@
   📂 [School Result Processing System](https://github.com/BashLaw-Cyber/ClassTeacher)  
 
 - 💳 **Virtual Card Record Keeping**  
-  📂 [Virtual Card Scanner](https://github.com/BashLaw-Cyber/Virtual_Card_Record)  
+  📂 [Virtual Card Scanner](https://github.com/BashLaw-Cyber/Virtual_Card_Record)
+
+-  🗳️ **Electronic Voting  App**  
+  📂 [Electronic voting App](https://github.com/BashLaw-Cyber/voting_app)  
 
 ---
 
